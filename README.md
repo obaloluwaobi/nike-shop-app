@@ -1,4 +1,4 @@
-# Provider-powered nike shop app animation - Day 16
+# Provider-powered nike shop app | animations | Hero | webapp - Day 16
 
 
 
@@ -11,7 +11,7 @@ flutter run
 ```
 
 
-# ScreenShots 
+# Mobile 
 ## Home/shoe Page
 
 
@@ -22,6 +22,21 @@ flutter run
 
 
 ## Contact page
+
+
+# Web-Chrome
+## Home/shoe Page
+
+
+## Shoe Details/puchase page
+
+
+## CartPage 
+
+
+## Contact page
+
+
 
 
 # Links
