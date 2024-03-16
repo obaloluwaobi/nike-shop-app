@@ -28,6 +28,11 @@ flutter run
 
 
 # Web-Chrome
+
+
+https://github.com/obaloluwaobi/nike-shop-app/assets/101903208/f384172f-a7b2-4e86-b544-9741b4ae8f3d
+
+
 ## Home/shoe Page
 
 
