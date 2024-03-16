@@ -13,12 +13,15 @@ flutter run
 
 # Mobile 
 ## Home/shoe Page
+![Screenshot_1706564489](https://github.com/obaloluwaobi/nike-shop-app/assets/101903208/e7210cee-43c9-4f2e-b8b2-f1750660464e)
 
 
 ## Shoe Details/puchase page
+![Screenshot_1709005269](https://github.com/obaloluwaobi/nike-shop-app/assets/101903208/8b64c49c-e32d-4a66-8455-5df4596ebb7f)
 
 
 ## CartPage 
+![Screenshot_1706564512](https://github.com/obaloluwaobi/nike-shop-app/assets/101903208/a51d09cf-b50d-42aa-88e5-9177fed1cbb4)
 
 
 ## Contact page
